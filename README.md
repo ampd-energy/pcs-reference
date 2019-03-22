@@ -1,4 +1,3 @@
-
 # PCS Reference
 PCS Alarm references for dashboard
 
@@ -14,7 +13,7 @@ PCS Alarm references for dashboard
 
 #### Install
 ```bash
-npm install --save-dev git@github.com:ampd-energy/pcs-reference.git
+npm install --save-dev git+ssh://git@github.com/ampd-energy/pcs-reference.git
 ```
 
 #### Import
