@@ -1,0 +1,178 @@
+{
+  "1" : {
+    "description" : "Rectifier Fault",
+    "severity" : 2
+  },
+  "2" : {
+    "description" : "Inverter fault",
+    "severity" : 1
+  },
+  "3" : {
+    "description" : "Inverter Thyristor shorted",
+    "severity" : 1
+  },
+  "4" : {
+    "description" : "Inverter Thyristor",
+    "severity" : 1
+  },
+  "5" : {
+    "description" : "Bypass Thyristor shorted",
+    "severity" : 1
+  },
+  "6" : {
+    "description" : "Bypass Thyristor broken",
+    "severity" : 1
+  },
+  "7" : {
+    "description" : "Fuse broken",
+    "severity" : 1
+  },
+  "8" : {
+    "description" : "Parallel relay fault",
+    "severity" : 1
+  },
+  "9" : {
+    "description" : "Fan fault",
+    "severity" : 1
+  },
+  "10" : {
+    "description" : "Fan Power fault",
+    "severity" : 1
+  },
+  "11" : {
+    "description" : "Auxiliary power fault",
+    "severity" : 1
+  },
+  "12" : {
+    "description" : "Initialisation fault",
+    "severity" : 1
+  },
+  "13" : {
+    "description" : "P-Battery Charger fault",
+    "severity" : 2
+  },
+  "14" : {
+    "description" : "N-Battery Charger fault",
+    "severity" : 2
+  },
+  "15" : {
+    "description" : "DC Bus over voltage",
+    "severity" : 2
+  },
+  "16" : {
+    "description" : "DC Bus under voltage",
+    "severity" : 2
+  },
+  "17" : {
+    "description" : "DC bus unbalanced",
+    "severity" : 2
+  },
+  "18" : {
+    "description" : "Soft start failed",
+    "severity" : 1
+  },
+  "19" : {
+    "description" : "Rectifier Over Temperature",
+    "severity" : 2
+  },
+  "20" : {
+    "description" : "Inverter Over temperature",
+    "severity" : 2
+  },
+  "21" : {
+    "description" : "Input Missing Zero Crossing",
+    "severity" : 2
+  },
+  "22" : {
+    "description" : "Battery reversed",
+    "severity" : 1
+  },
+  "23" : {
+    "description" : "Parallel Cable Fault",
+    "severity" : 1
+  },
+  "24" : {
+    "description" : "Parallel Comm. Fault",
+    "severity" : 1
+  },
+  "25" : {
+    "description" : "Parallel load sharing fault",
+    "severity" : 2
+  },
+  "26" : {
+    "description" : "Battery over voltage",
+    "severity" : 2
+  },
+  "27" : {
+    "description" : "Mains Site Wiring Fault",
+    "severity" : 2
+  },
+  "28" : {
+    "description" : "Bypass Site Wiring Fault",
+    "severity" : 2
+  },
+  "29" : {
+    "description" : "Output Short-circuit",
+    "severity" : 1
+  },
+  "30" : {
+    "description" : "Rectifier over current",
+    "severity" : 2
+  },
+  "31" : {
+    "description" : "Bypass over current",
+    "severity" : 2
+  },
+  "32" : {
+    "description" : "Overload",
+    "severity" : 3
+  },
+  "33" : {
+    "description" : "No battery",
+    "severity" : 2
+  },
+  "34" : {
+    "description" : "Battery under voltage",
+    "severity" : 2
+  },
+  "35" : {
+    "description" : "Battery low pre-warning",
+    "severity" : 3
+  },
+  "36" : {
+    "description" : "Internal Communication Error",
+    "severity" : 1
+  },
+  "37" : {
+    "description" : "DC Component over limit",
+    "severity" : 2
+  },
+  "38" : {
+    "description" : "Parallel Overload",
+    "severity" : 3
+  },
+  "39" : {
+    "description" : "Mains volt. Abnormal",
+    "severity" : 3
+  },
+  "40" : {
+    "description" : "Mains freq. abnormal",
+    "severity" : 3
+  },
+  "41" : {
+    "description" : "Bypass Not Available",
+    "severity" : 3
+  },
+  "42" : {
+    "description" : "Bypass unable to trace",
+    "severity" : 3
+  },
+  "43" : {
+    "description" : "Inverter on invalid",
+    "severity" : 2
+  },
+  "44" : {
+    "description" : "Module not installed properly",
+    "severity" : 1
+  }
+}

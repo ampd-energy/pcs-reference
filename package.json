@@ -1,0 +1,15 @@
+{
+  "name": "pcs-reference",
+  "version": "1.0.0",
+  "description": "PCS Alarm references for dashboard",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ampd-energy/pcs-reference.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ampd-energy/pcs-reference/issues"
+  },
+  "homepage": "https://github.com/ampd-energy/pcs-reference#readme"
+}
