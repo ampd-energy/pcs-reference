@@ -1,178 +1,222 @@
 {
   "1" : {
-    "description" : "Rectifier Fault",
+    "title" : "Rectifier Fault",
+    "message" : "TBC",
     "severity" : 2
   },
   "2" : {
-    "description" : "Inverter fault",
+    "title" : "Inverter fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "3" : {
-    "description" : "Inverter Thyristor shorted",
+    "title" : "Inverter Thyristor shorted",
+    "message" : "TBC",
     "severity" : 1
   },
   "4" : {
-    "description" : "Inverter Thyristor",
+    "title" : "Inverter Thyristor",
+    "message" : "TBC",
     "severity" : 1
   },
   "5" : {
-    "description" : "Bypass Thyristor shorted",
+    "title" : "Bypass Thyristor shorted",
+    "message" : "TBC",
     "severity" : 1
   },
   "6" : {
-    "description" : "Bypass Thyristor broken",
+    "title" : "Bypass Thyristor broken",
+    "message" : "TBC",
     "severity" : 1
   },
   "7" : {
-    "description" : "Fuse broken",
+    "title" : "Fuse broken",
+    "message" : "TBC",
     "severity" : 1
   },
   "8" : {
-    "description" : "Parallel relay fault",
+    "title" : "Parallel relay fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "9" : {
-    "description" : "Fan fault",
+    "title" : "Fan fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "10" : {
-    "description" : "Fan Power fault",
+    "title" : "Fan Power fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "11" : {
-    "description" : "Auxiliary power fault",
+    "title" : "Auxiliary power fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "12" : {
-    "description" : "Initialisation fault",
+    "title" : "Initialisation fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "13" : {
-    "description" : "P-Battery Charger fault",
+    "title" : "P-Battery Charger fault",
+    "message" : "TBC",
     "severity" : 2
   },
   "14" : {
-    "description" : "N-Battery Charger fault",
+    "title" : "N-Battery Charger fault",
+    "message" : "TBC",
     "severity" : 2
   },
   "15" : {
-    "description" : "DC Bus over voltage",
+    "title" : "DC Bus over voltage",
+    "message" : "TBC",
     "severity" : 2
   },
   "16" : {
-    "description" : "DC Bus under voltage",
+    "title" : "DC Bus under voltage",
+    "message" : "TBC",
     "severity" : 2
   },
   "17" : {
-    "description" : "DC bus unbalanced",
+    "title" : "DC bus unbalanced",
+    "message" : "TBC",
     "severity" : 2
   },
   "18" : {
-    "description" : "Soft start failed",
+    "title" : "Soft start failed",
+    "message" : "TBC",
     "severity" : 1
   },
   "19" : {
-    "description" : "Rectifier Over Temperature",
+    "title" : "Rectifier Over Temperature",
+    "message" : "TBC",
     "severity" : 2
   },
   "20" : {
-    "description" : "Inverter Over temperature",
+    "title" : "Inverter Over temperature",
+    "message" : "TBC",
     "severity" : 2
   },
   "21" : {
-    "description" : "Input Missing Zero Crossing",
+    "title" : "Input Missing Zero Crossing",
+    "message" : "TBC",
     "severity" : 2
   },
   "22" : {
-    "description" : "Battery reversed",
+    "title" : "Battery reversed",
+    "message" : "TBC",
     "severity" : 1
   },
   "23" : {
-    "description" : "Parallel Cable Fault",
+    "title" : "Parallel Cable Fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "24" : {
-    "description" : "Parallel Comm. Fault",
+    "title" : "Parallel Comm. Fault",
+    "message" : "TBC",
     "severity" : 1
   },
   "25" : {
-    "description" : "Parallel load sharing fault",
+    "title" : "Parallel load sharing fault",
+    "message" : "TBC",
     "severity" : 2
   },
   "26" : {
-    "description" : "Battery over voltage",
+    "title" : "Battery over voltage",
+    "message" : "TBC",
     "severity" : 2
   },
   "27" : {
-    "description" : "Mains Site Wiring Fault",
+    "title" : "Mains Site Wiring Fault",
+    "message" : "TBC",
     "severity" : 2
   },
   "28" : {
-    "description" : "Bypass Site Wiring Fault",
+    "title" : "Bypass Site Wiring Fault",
+    "message" : "TBC",
     "severity" : 2
   },
   "29" : {
-    "description" : "Output Short-circuit",
+    "title" : "Output Short-circuit",
+    "message" : "TBC",
     "severity" : 1
   },
   "30" : {
-    "description" : "Rectifier over current",
+    "title" : "Rectifier over current",
+    "message" : "TBC",
     "severity" : 2
   },
   "31" : {
-    "description" : "Bypass over current",
+    "title" : "Bypass over current",
+    "message" : "TBC",
     "severity" : 2
   },
   "32" : {
-    "description" : "Overload",
+    "title" : "Overload",
+    "message" : "TBC",
     "severity" : 3
   },
   "33" : {
-    "description" : "No battery",
+    "title" : "No battery",
+    "message" : "TBC",
     "severity" : 2
   },
   "34" : {
-    "description" : "Battery under voltage",
+    "title" : "Battery under voltage",
+    "message" : "TBC",
     "severity" : 2
   },
   "35" : {
-    "description" : "Battery low pre-warning",
+    "title" : "Battery low pre-warning",
+    "message" : "TBC",
     "severity" : 3
   },
   "36" : {
-    "description" : "Internal Communication Error",
+    "title" : "Internal Communication Error",
+    "message" : "TBC",
     "severity" : 1
   },
   "37" : {
-    "description" : "DC Component over limit",
+    "title" : "DC Component over limit",
+    "message" : "TBC",
     "severity" : 2
   },
   "38" : {
-    "description" : "Parallel Overload",
+    "title" : "Parallel Overload",
+    "message" : "TBC",
     "severity" : 3
   },
   "39" : {
-    "description" : "Mains volt. Abnormal",
+    "title" : "Mains volt. Abnormal",
+    "message" : "TBC",
     "severity" : 3
   },
   "40" : {
-    "description" : "Mains freq. abnormal",
+    "title" : "Mains freq. abnormal",
+    "message" : "TBC",
     "severity" : 3
   },
   "41" : {
-    "description" : "Bypass Not Available",
+    "title" : "Bypass Not Available",
+    "message" : "TBC",
     "severity" : 3
   },
   "42" : {
-    "description" : "Bypass unable to trace",
+    "title" : "Bypass unable to trace",
+    "message" : "TBC",
     "severity" : 3
   },
   "43" : {
-    "description" : "Inverter on invalid",
+    "title" : "Inverter on invalid",
+    "message" : "TBC",
     "severity" : 2
   },
   "44" : {
-    "description" : "Module not installed properly",
+    "title" : "Module not installed properly",
+    "message" : "TBC",
     "severity" : 1
   }
 }
