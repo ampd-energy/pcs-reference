@@ -1,222 +1,222 @@
 {
   "1" : {
     "title" : "Rectifier Fault",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "2" : {
-    "title" : "Inverter fault",
-    "message" : "TBC",
+    "title" : "Inverter Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "3" : {
-    "title" : "Inverter Thyristor shorted",
-    "message" : "TBC",
+    "title" : "Inverter Thyristor Shorted",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "4" : {
     "title" : "Inverter Thyristor",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "5" : {
-    "title" : "Bypass Thyristor shorted",
-    "message" : "TBC",
+    "title" : "Bypass Thyristor Shorted",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "6" : {
-    "title" : "Bypass Thyristor broken",
-    "message" : "TBC",
+    "title" : "Bypass Thyristor Broken",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "7" : {
-    "title" : "Fuse broken",
-    "message" : "TBC",
+    "title" : "Fuse Broken",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "8" : {
-    "title" : "Parallel relay fault",
-    "message" : "TBC",
+    "title" : "Parallel Relay Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "9" : {
-    "title" : "Fan fault",
-    "message" : "TBC",
+    "title" : "Fan Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "10" : {
-    "title" : "Fan Power fault",
-    "message" : "TBC",
+    "title" : "Fan Power Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "11" : {
-    "title" : "Auxiliary power fault",
-    "message" : "TBC",
+    "title" : "Auxiliary Power Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "12" : {
-    "title" : "Initialisation fault",
-    "message" : "TBC",
+    "title" : "Initialisation Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "13" : {
-    "title" : "P-Battery Charger fault",
-    "message" : "TBC",
+    "title" : "P-Battery Charger Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "14" : {
-    "title" : "N-Battery Charger fault",
-    "message" : "TBC",
+    "title" : "N-Battery Charger Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "15" : {
-    "title" : "DC Bus over voltage",
-    "message" : "TBC",
+    "title" : "DC Bus Overvoltage",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "16" : {
-    "title" : "DC Bus under voltage",
-    "message" : "TBC",
+    "title" : "DC Bus Undervoltage",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "17" : {
-    "title" : "DC bus unbalanced",
-    "message" : "TBC",
+    "title" : "DC Bus Unbalanced",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "18" : {
-    "title" : "Soft start failed",
-    "message" : "TBC",
+    "title" : "Soft Start Failed",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "19" : {
-    "title" : "Rectifier Over Temperature",
-    "message" : "TBC",
+    "title" : "Rectifier OverTemperature",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "20" : {
-    "title" : "Inverter Over temperature",
-    "message" : "TBC",
+    "title" : "Inverter Overtemperature",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "21" : {
     "title" : "Input Missing Zero Crossing",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "22" : {
-    "title" : "Battery reversed",
-    "message" : "TBC",
+    "title" : "Battery Reversed",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "23" : {
     "title" : "Parallel Cable Fault",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "24" : {
     "title" : "Parallel Comm. Fault",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "25" : {
-    "title" : "Parallel load sharing fault",
-    "message" : "TBC",
+    "title" : "Parallel Load Sharing Fault",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "26" : {
-    "title" : "Battery over voltage",
-    "message" : "TBC",
+    "title" : "Battery Overvoltage",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "27" : {
     "title" : "Mains Site Wiring Fault",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "28" : {
     "title" : "Bypass Site Wiring Fault",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "29" : {
-    "title" : "Output Short-circuit",
-    "message" : "TBC",
+    "title" : "Output Short Circuit",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "30" : {
-    "title" : "Rectifier over current",
-    "message" : "TBC",
+    "title" : "Rectifier Overcurrent",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "31" : {
-    "title" : "Bypass over current",
-    "message" : "TBC",
+    "title" : "Bypass Overcurrent",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "32" : {
     "title" : "Overload",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "33" : {
-    "title" : "No battery",
-    "message" : "TBC",
+    "title" : "No Battery",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "34" : {
-    "title" : "Battery under voltage",
-    "message" : "TBC",
+    "title" : "Battery Undervoltage",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "35" : {
-    "title" : "Battery low pre-warning",
-    "message" : "TBC",
+    "title" : "Battery Low Pre-warning",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "36" : {
     "title" : "Internal Communication Error",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   },
   "37" : {
-    "title" : "DC Component over limit",
-    "message" : "TBC",
+    "title" : "DC Component Over Limit",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "38" : {
     "title" : "Parallel Overload",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "39" : {
-    "title" : "Mains volt. Abnormal",
-    "message" : "TBC",
+    "title" : "Mains Voltage Abnormal",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "40" : {
-    "title" : "Mains freq. abnormal",
-    "message" : "TBC",
+    "title" : "Mains Frequency Abnormal",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "41" : {
     "title" : "Bypass Not Available",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "42" : {
     "title" : "Bypass unable to trace",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 3
   },
   "43" : {
-    "title" : "Inverter on invalid",
-    "message" : "TBC",
+    "title" : "Inverter On Invalid",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 2
   },
   "44" : {
     "title" : "Module not installed properly",
-    "message" : "TBC",
+    "message" : "Please Contact Ampd Energy Customer Support",
     "severity" : 1
   }
 }
